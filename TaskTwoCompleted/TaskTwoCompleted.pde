@@ -1,0 +1,10 @@
+int dagePåÅret=365;
+String hjemby="København";
+boolean isWeekend=true;
+float regnestykke=60*24;
+double kommatal=22.12;
+String teachername="Tess";
+String velkomst="Hej, jeg heddder "+teachername;
+boolean isMonday=false;
+float andetRegnestykke=2.2 + 33;
+char bogstav='S';
